@@ -5,7 +5,7 @@
 
 Um pouco sobre mim...
 
-- 🔭 Estou estudando Análise e desenvolvimento de sistemas
+- 🔭 Estou estudando Análise e desenvolvimento de sistemas >> Procurando Estágio !!
 - 🌱 Atualmente estou estudando JavaScript, HTML5 e CSS3
 - 🤔 Pensando em aprender Python e dar um passo adiante aprendendo ReactNative
 - 💬 Pode me perguntar qualquer coisa...
