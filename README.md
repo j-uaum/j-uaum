@@ -6,8 +6,8 @@
 Um pouco sobre mim...
 
 - 🔭 Estou estudando Análise e desenvolvimento de sistemas >> Procurando Estágio !!
-- 🌱 Atualmente estou estudando JavaScript, HTML5 e CSS3
-- 🤔 Pensando em aprender Python e dar um passo adiante aprendendo ReactNative
+- 🌱 Atualmente estou estudando JavaScript, HTML5, CSS3 e React Native. (Na faculdade: PHP,MySQL e Linguagem C)
+- 🤔 Pensando em aprender Python 
 - 💬 Pode me perguntar qualquer coisa...
 - 📫 Pode me chamar via email em victordcesario@gmail.com ou j_uaum no Instagram
 - ⚡ Fun fact: Amo F1 💖
