@@ -1,7 +1,7 @@
 ## Hi there mate! 👋
 
 
-###Esse é meu portifófio de estudo, sendo consequentimente meu currículo também. Algumas informações estão em inglês por opção pessoal. Podem dar uma olhada 
+### Esse é meu portifófio de estudo, sendo consequentimente meu currículo também. Algumas informações estão em inglês por opção pessoal. Podem dar uma olhada 
 
 Um pouco sobre mim...
 
