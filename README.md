@@ -1,14 +1,14 @@
-### Hi there mate! 👋
+## Hi there mate! 👋
 
 
-**Esse é meu portifófio de estudo, sendo consequentimente meu currículo também. Algumas informações estão em inglês por opção pessoal. Podem dar uma olhada ahahahaha
+###Esse é meu portifófio de estudo, sendo consequentimente meu currículo também. Algumas informações estão em inglês por opção pessoal. Podem dar uma olhada 
 
 Um pouco sobre mim...
 
 - 🔭 Estou estudando Análise e desenvolvimento de sistemas >> Procurando Estágio !!
 - 🌱 Atualmente estou estudando JavaScript, HTML5, CSS3 e React Native. >>> Na faculdade: PHP, MySQL e Linguagem C
 - 🤔 Pensando em aprender Python 
-- 💬 Pode me perguntar qualquer coisa...
+- 💬 Fiquem a vontade para interagir com meus projetos 
 - 📫 Pode me chamar via email em victordcesario@gmail.com ou j_uaum no Instagram
 - ⚡ Fun fact: Amo F1 💖
 
