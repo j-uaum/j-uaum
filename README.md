@@ -1,16 +1,16 @@
 ## Hi there mate! 👋
 
 
-### Esse é meu portifófio de estudo, sendo consequentimente meu currículo também. Algumas informações estão em inglês por opção pessoal. Podem dar uma olhada 
+### This is my study portfolio, and consequently my curriculum as well
 
-Um pouco sobre mim...
+About me...
 
-- 🔭 Estou estudando Análise e desenvolvimento de sistemas >> Procurando Estágio !!
-- 🌱 Atualmente estou estudando JavaScript, HTML5, CSS3 e React Native. >>> Na faculdade: PHP, MySQL e Linguagem C
-- 🤔 Pensando em aprender Python 
-- 💬 Fiquem a vontade para interagir com meus projetos 
-- 📫 Pode me chamar via email em victordcesario@gmail.com ou j_uaum no Instagram
-- ⚡ Fun fact: Amo F1 💖
+- 🔭 I'm studying Systems Analysis and Development at PUCPR
+- 🌱 I'm currently studying React.js, Angular and AWS >>> Sometimes: c++, php and typescript
+- 🤔 Learning the legal part about an e-commerce
+- 💬 Feel in home to interact with my projects
+- 📫 You can call me by email at victordcesario@gmail.com or j_uaum on Instagram
+- ⚡ Looking for junior developer jobs abroad
 
 <div align="center">
   <a href="https://github.com/j-uaum">
